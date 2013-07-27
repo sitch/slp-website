@@ -1,0 +1,36 @@
+.no-padding {
+    padding: 0 !important;
+}
+
+.no-click {
+    cursor: default;
+}
+
+.full-width {
+    width: 100%;
+    *zoom: 1;
+}
+
+.home-content {
+    position: relative;
+    z-index: 10;
+}
+
+// img.img-circle{
+// 	@include border-radius(500px);
+// }
+
+
+
+// BLOCKS
+.small-block{
+	height: 60px;
+}
+
+.medium-block{
+	height: 88px;
+}
+
+.large-block{
+	height: 125px;
+}

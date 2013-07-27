@@ -1,0 +1,17 @@
+{
+  "name": "Student Loan Project",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "latest",
+    "d3": "latest",
+    "twitter-bootstrap-sass": "latest",
+    "normalize.scss": "latest",
+    "font-awesome": "latest",
+    "modernizr": "latest",
+    "flat-ui": "latest",
+    "jquery.transit": "~0.9.9",
+    "jquery-waypoints": "~v2.0.2",
+    "jquery.sticky": "~1.0.0",
+    "compass-twitter-bootstrap": "~2.3.1"
+  }
+}
