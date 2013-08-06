@@ -6,7 +6,7 @@
 @import "loading";
 @import "navbar";
 @import "footer";
-
+@import "login";
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
@@ -160,5 +160,9 @@
 
 .featurette-img-shadow {
   @include single-box-shadow(#888, 1px, 1px, 10px);
+}
+
+#landing {
+  overflow: hidden;
 }
 
